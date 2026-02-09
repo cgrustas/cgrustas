@@ -16,10 +16,6 @@ I am a Computer Science student at Northeastern University, focused on building 
 - [**Knight's Travails**](https://github.com/cgrustas/knights-travails): Graph traversal implementation using Breadth-First Search (BFS) to find the shortest path on a chessboard.
 - [**Binary Search Trees**](https://github.com/cgrustas/binary-search-trees): Custom implementation of a balanced BST data structure featuring recursive and iterative traversal algorithms.
 
-## Contact Me
-- [LinkedIn](https://www.linkedin.com/in/coleman-grustas)
-- chgrustas@gmail.com
-
 <!--
 **cgrustas/cgrustas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
